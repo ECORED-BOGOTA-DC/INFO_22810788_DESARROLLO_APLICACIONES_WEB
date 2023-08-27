@@ -1,7 +1,7 @@
-# **sena-base-info-2021 v2.0.0**
+# **Desarrollo de aplicaciones web en tiempo real con javascript y Node.js**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-INFO-2021/](https://ecored-sena.github.io/ECORED-BASE-INFO-2021/)
+[https://ecored-bogota-dc.github.io/INFO_22810788_DESARROLLO_APLICACIONES_WEB/](https://ecored-bogota-dc.github.io/INFO_22810788_DESARROLLO_APLICACIONES_WEB/)
 
 #
